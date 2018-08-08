@@ -1,0 +1,22 @@
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.deps.json
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.runtimeconfig.json
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.runtimeconfig.dev.json
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.dll
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.pdb
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.csprojAssemblyReference.cache
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.csproj.CoreCompileInputs.cache
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.AssemblyInfoInputs.cache
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.AssemblyInfo.cs
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.dll
+D:\Jesudas\01 Ministry\Church\Church Administration\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.pdb
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.deps.json
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.runtimeconfig.json
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.runtimeconfig.dev.json
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.dll
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\bin\Debug\netcoreapp2.0\ChurchAdminWeb.pdb
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.csprojAssemblyReference.cache
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.csproj.CoreCompileInputs.cache
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.AssemblyInfoInputs.cache
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.AssemblyInfo.cs
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.dll
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\UI\ChurchAdminWeb\obj\Debug\netcoreapp2.0\ChurchAdminWeb.pdb
