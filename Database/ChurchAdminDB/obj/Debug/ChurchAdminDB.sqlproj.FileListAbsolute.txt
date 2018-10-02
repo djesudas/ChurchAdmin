@@ -1,0 +1,32 @@
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\bin\Debug\ChurchAdminDB.dacpac
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\bin\Debug\ChurchAdminDB.dll
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\bin\Debug\ChurchAdminDB.pdb
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\Model.xml
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\refactor.xml
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\postdeploy.sql
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\predeploy.sql
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\ChurchAdminDB.dll
+C:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\ChurchAdminDB.pdb
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\bin\Debug\ChurchAdminDB.dacpac
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\bin\Debug\ChurchAdminDB.dll
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\bin\Debug\ChurchAdminDB.pdb
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\Model.xml
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\refactor.xml
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\postdeploy.sql
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\predeploy.sql
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\ChurchAdminDB.dll
+D:\Jesudas\01 Ministry\Church\Harvest\2017\HarvestFestival\ChurchAdminDB\obj\Debug\ChurchAdminDB.pdb
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\bin\Debug\ChurchAdminDB.dacpac
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\bin\Debug\ChurchAdminDB.dll
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\bin\Debug\ChurchAdminDB.pdb
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\obj\Debug\Model.xml
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\obj\Debug\refactor.xml
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\obj\Debug\postdeploy.sql
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\obj\Debug\predeploy.sql
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\obj\Debug\ChurchAdminDB.dll
+D:\Jesudas\01 Ministry\Church\Church Administration\Database\ChurchAdminDB\obj\Debug\ChurchAdminDB.pdb
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\Database\ChurchAdminDB\bin\Debug\ChurchAdminDB.dacpac
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\Database\ChurchAdminDB\bin\Debug\ChurchAdminDB.dll
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\Database\ChurchAdminDB\bin\Debug\ChurchAdminDB.pdb
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\Database\ChurchAdminDB\obj\Debug\ChurchAdminDB.dll
+D:\Jesudas\01 Ministry\Church\GIT\ChurchAdmin\Database\ChurchAdminDB\obj\Debug\ChurchAdminDB.pdb
